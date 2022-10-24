@@ -1,0 +1,10 @@
+body{
+    background: rgb(176,172,164);
+    background: linear-gradient(270deg, rgba(176,172,164,1) 0%, rgba(113,103,94,1) 53%, rgba(57,52,47,1) 100%);
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
