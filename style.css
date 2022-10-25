@@ -21,12 +21,16 @@ li{
 .logo{
     height: 70px;
 }
+.nav-item:hover{
+    text-shadow: 3px 3px 7px rgba(251,161,0,0.82);
+}
 
 h1{
     font-weight: 700;
+    text-shadow: 3px 3px 7px rgba(251,161,0,0.82);
 }
 .saludo{
-    margin-top: 150px;
+   
     text-align: center;
 }
 .redes{
@@ -36,15 +40,16 @@ h1{
 .instagram{
     height: 60px;
 }
-.presentacion{
-    display: flex;
-    justify-content: space-around;
-}
+
 .foto-perfil{
     width: 300px;    
-    height: 300px;
-    border-radius: 50%;
-    margin: 130px;
+    height: 300px;   
+   
+    margin-left: 170px;
+}
+.presentacion{
+    margin-top: 150px;
+    margin-bottom: 50px;
 }
 .presentacion-texto{
     text-align: justify;
@@ -57,14 +62,22 @@ h1{
 }
 .hobbies{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
+    font-weight: 600;
     color: #fba100;
+    text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
 }
 .card{
     margin: 20px 50px 250px 50px;
     color: antiquewhite;
-    border-radius: 20px;
+    border-radius: 40px;
     
+}
+.card-img-top{
+    width: 200px;    
+    height: 200px;    
+    margin-top: 20px;
+    margin-left: 30%;
 }
 
 
