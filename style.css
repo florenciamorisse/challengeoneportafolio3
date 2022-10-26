@@ -1,3 +1,4 @@
+
 body{
     background: rgb(108,100,139);
     background: linear-gradient(180deg, rgba(108,100,139,1) 0%, rgba(182,161,158,1) 85%, rgba(83,69,37,1) 100%);
@@ -59,6 +60,14 @@ h1{
     margin-left: 100px;
     margin-right: 100px;
     
+}
+.sobre-mi:hover{
+    text-shadow: 3px 3px 7px rgba(251,161,0,0.82);
+}
+.sobre-mi, .presentacion-texto{
+    margin-left: 50px;
+    margin-right: 50px;
+
 }
 .hobbies{
     text-align: center;
