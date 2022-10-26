@@ -68,6 +68,9 @@ h1{
     margin-right: 50px;
 
 }
+.presentacion-texto{
+    font-size: 20px;
+}
 .page{
     
     font-size: 40px;
@@ -77,6 +80,11 @@ h1{
 }
 .img-fluid{
     height: 160px;
+
+}
+ul{
+    color: rgb(52, 50, 50);
+    font-size: 20px;
 
 }
 .logo_footer{
