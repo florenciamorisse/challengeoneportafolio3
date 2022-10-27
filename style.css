@@ -1,8 +1,9 @@
 
 body{
-    background: rgb(108,100,139);
+    background-color: rgba(208, 211, 219, 1);
+    /* background: rgb(108,100,139);
     background: linear-gradient(180deg, rgba(108,100,139,1) 0%, rgba(182,161,158,1) 85%, rgba(83,69,37,1) 100%);
-    font-family: 'Fuzzy Bubbles', cursive; 
+    font-family: 'Fuzzy Bubbles', cursive;  */
     
 }
 a{
